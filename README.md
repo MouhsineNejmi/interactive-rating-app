@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Interactive Rating App - Github URL](https://github.com/MouhsineNejmi/interactive-rating-app)
-- Live Site URL: [Interactive Rating App - Live URL](https://your-live-site-url.com)
+- Live Site URL: [Interactive Rating App - Live URL](https://interactive-rating-app-murex.vercel.app/)
 
 ## My process
 
