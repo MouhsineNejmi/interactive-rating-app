@@ -1,0 +1,52 @@
+:root {
+  --orange: hsl(25, 97%, 53%);
+  --white: hsl(0, 0%, 100%);
+  --light-grey: hsl(217, 12%, 63%);
+  --medium-grey: hsl(216, 12%, 54%);
+  --medium-grey-transparent: hsla(216, 12%, 54%, 0.1);
+  --dark-blue: hsl(213, 19%, 18%);
+  --very-dark-blue: hsl(216, 12%, 8%);
+  --margin-lg: 20px;
+  --margin-sm: 10px;
+}
+
+.thanks-card-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.thanks-card-illustration {
+  margin-bottom: 20px;
+}
+
+.thanks-card-review {
+  padding: 10px;
+  background-color: var(--medium-grey-transparent);
+  border-radius: 100px;
+  margin-bottom: var(--margin-lg);
+  width: 70%;
+}
+
+.thanks-card-review p {
+  color: var(--orange);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.thanks-card-content h3 {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 1.1px;
+  margin-bottom: var(--margin-sm);
+}
+
+.thanks-card-content p {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.7;
+  color: var(--medium-grey);
+  margin-bottom: var(--margin-sm);
+}
